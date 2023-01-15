@@ -11,20 +11,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mahdi Tahmasbi, Computer Engineer & Web Developer from Iran
+  Hi, I'm Mahdi Tahmasbi, Software Engineer & Web Developer from Iran.
   <br>
   <br>
-  🔬 I'm currently studying for a bachlor's degree in Esfarayen University Computer Engineering Department
+  🔬 I'm currently studying for a bachlor's degree in Esfarayen University Computer Engineering Department.
   <br>
-  🎓 I graduated from Rafati High School
+  🎓 I graduated from Rafati High School.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love Codding and Software Engineering.
   <br>
-  📚 I’m currently learning how to build Website with Javascript
+  📚 I’m currently learning Front-end Development.
   <br>
   💬 Ask me anything about from <a href="https://github.com/mahdi-tahmasbii/mahdi-tahmasbii/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: mahdi_tahmasbi11@yahoo.com">mahdi_tahmasbi11@yahoo.com</a>
+  📫 How to reach me: <a href="mailto: mahditahmasbigero2002@yahoo.com">mahditahmasbigero2002@yahoo.com</a>
 </p>
 
 <hr>
@@ -32,11 +32,11 @@
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React js" height="25" src="images/react-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+<!--   <code><img title="React js" height="25" src="images/react-original.svg"></code> -->
   <code><img title="Docker" height="25" src="images/docker.png"></code>
    <code><img title="Linux" height="25" src="images/linux.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
 </p>
 <hr>
