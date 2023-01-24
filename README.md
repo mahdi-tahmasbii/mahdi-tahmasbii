@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Mahdi Tahmasbi, Software Engineer & Web Developer from Iran.
+  Hi, I'm Mahdi Tahmasbi, Software Engineer & Fuul-Stack Web Developer from Iran.
   <br>
   <br>
   🔬 I'm currently studying for a bachlor's degree in Esfarayen University Computer Engineering Department.
