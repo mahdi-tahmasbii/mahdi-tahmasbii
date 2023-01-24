@@ -33,7 +33,7 @@
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="DRF" height="25" src="https://www.django-rest-framework.org/img/logo.png](https://www.drfdocs.com/images/logo-badge.png"></code>
+  <code><img title="DRF" height="25" src="https://www.drfdocs.com/images/logo-badge.png"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   
