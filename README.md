@@ -42,5 +42,7 @@
   <code><img title="Docker" height="25" src="images/docker.png"></code>
    <code><img title="Linux" height="25" src="images/linux.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
+   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+   <code><img title="Git" height="25" src="images/postgresql.svg"></code>
 </p>
 <hr>
