@@ -10,7 +10,7 @@
   <code><a href="https://stackoverflow.com/users/16783910/mahdi-tahmasbi" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
-<p align="center">
+<p align="left">
   Hi, I'm Mahdi Tahmasbi, Software Engineer & Full-Stack Web Developer from Iran.
   <br>
   <br>
@@ -46,4 +46,3 @@
    <code><img title="Git" height="25" src="images/postgresql.svg"></code>
 </p>
 <hr>
-
