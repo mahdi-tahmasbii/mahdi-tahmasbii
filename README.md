@@ -4,13 +4,13 @@
   </a>
 </h1>
 
-<h5 align="left">
+<h5 align="center">
   <code><a href="https://www.linkedin.com/in/mahdi-tahmasbi-163282217/" title="LinkedIn Profile"><img width="40" height='40' src="images/linkedin.svg"> </a></code>
   <code><a href="https://github.com/mahdi-tahmasbii" title="GitHub Profile"><img width="40" height='40' src="images/github.svg"> </a></code>
   <!-- <code><a href="https://stackoverflow.com/users/16783910/mahdi-tahmasbi" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
 </h5>
 <br>
-<p align="left">
+<h1 align="left">
   Software Engineer & Front-end Web Developer.
   <br>
   <!-- <br>
@@ -25,7 +25,7 @@
   💬 Ask me anything about from <a href="https://github.com/mahdi-tahmasbii/mahdi-tahmasbii/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: mahditahmasbigero2002@yahoo.com">mahditahmasbigero2002@yahoo.com</a>
-</p>
+</h1>
 
 <!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
@@ -52,9 +52,9 @@
 </p>
 <hr>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=mahdi-tahmasbii&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
-</p>
+</p> -->
 
 <!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 
