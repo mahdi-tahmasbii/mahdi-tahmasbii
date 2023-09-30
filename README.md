@@ -36,7 +36,7 @@
   <code><img title="DRF" height="25" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
     <code><img title="React.js" height="25" src="images/react-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="HTML5" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Tailwind.css" height="25" src="images/tailwind.png"></code>
   <code><img title="Docker" height="25" src="images/docker.png"></code>
