@@ -10,7 +10,7 @@
   <!-- <code><a href="https://stackoverflow.com/users/16783910/mahdi-tahmasbi" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
 </h5>
 <br>
-<h1 align="left">
+<h1 align="center">
   Software Engineer & Front-end Web Developer.
   <br>
   <!-- <br>
@@ -22,9 +22,11 @@
   <br>
   📚 I’m currently learning Front-end Development.
   <br> -->
-  💬 Ask me anything about from <a href="https://github.com/mahdi-tahmasbii/mahdi-tahmasbii/issues" title="Issues">Here</a>
+  <!-- 💬 Ask me anything about from <a href="https://github.com/mahdi-tahmasbii/mahdi-tahmasbii/issues" title="Issues">Here</a> -->
   <br>
+<h1>
   📫 How to reach me: <a href="mailto: mahditahmasbigero2002@yahoo.com">mahditahmasbigero2002@yahoo.com</a>
+</h1>  
 </h1>
 
 <!-- <hr>
