@@ -12,30 +12,9 @@
 <br>
 <h1 align="center">
   I`m Mahdi, Software Engineer & Front-end Web Developer.
-  <br>
-  <!-- <br>
-  🔬 I'm currently studying for a bachlor's degree in Esfarayen University Computer Engineering Department.
-  <br>
-  🎓 I graduated from Rafati High School.
-  <br>
-  💻 I love Codding and Software Engineering.
-  <br>
-  📚 I’m currently learning Front-end Development.
-  <br> -->
-  <!-- 💬 Ask me anything about from <a href="https://github.com/mahdi-tahmasbii/mahdi-tahmasbii/issues" title="Issues">Here</a> -->
-  <br>
-<!-- <h1>
-  📫 How to reach me: <a href="mailto: mahditahmasbigero2002@yahoo.com">mahditahmasbigero2002@yahoo.com</a>
-</h1>   -->
 </h1>
 
-<!-- <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br> -->
 <p align="center">
-  <!-- <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="DRF" height="25" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg"></code> -->
     <code><img title="HTML5" height="40" width='40' src="images/html5.svg"></code>
   <code><img title="CSS" height="40" width='40' src="images/css.svg"></code>
   <code><img title="Javascript" height="40" width='40' src="images/javascript.svg"></code>
