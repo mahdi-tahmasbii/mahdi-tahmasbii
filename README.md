@@ -39,15 +39,15 @@
   <code><img title="Javascript" height="40" width='40' src="images/javascript.svg"></code>
     <code><img title="React.js" height="40" width='40' src="images/react-original.svg"></code>
 <code><img title="Tailwind.css" height="40" width='40' src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
-<code><img title="Next.js" height="40" width='40' src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
+<code><img title="Next.js" height="40" width='40' src="images/nextjs-2.svg"></code>
 <code><img title="TypeScript" height="40" width='40' src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img title="Redux" height="40" width='40' src="images/redux.svg">
-</code><code><img title="Npm" height="40" width='40' src="images/npm.svg"></code>
-<code><img title="Docker" height="40" width='40' src="images/docker.png"></code>
-<code><img title="Linux" height="40" width='40' src="images/linux.png"></code>
 <code><img title="Git" height="40" width='40' src="images/git-original.svg"></code>
+<code><img title="PostMan" height="40" width='40' src="images/postman.svg"></code>
+</code><code><img title="Npm" height="40" width='40' src="images/npm.svg"></code>
+<code><img title="Linux" height="40" width='40' src="images/linux.png"></code>
+<code><img title="Docker" height="40" width='40' src="images/docker.png"></code>
 <code><img title="MySQL" height="40" width='40' src="images/mysql.svg"></code>
 <code><img title="PostgreSQL" height="40" width='40' src="images/postgresql.svg"></code>
-
 </p>
 <hr>
