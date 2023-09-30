@@ -31,18 +31,22 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <!-- <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="DRF" height="25" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg"></code>
+  <code><img title="DRF" height="25" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg"></code> -->
+    <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
     <code><img title="React.js" height="25" src="images/react-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Tailwind.css" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.png"></code>
-   <code><img title="Linux" height="25" src="images/linux.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-   <code><img title="Git" height="25" src="images/postgresql.svg"></code>
+<code><img title="Tailwind.css" height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
+<code><img title="Next.js" height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
+<code><img title="TypeScript" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
+<code><img title="Redux" height="25" src="images/redux.svg"></code>
+<code><img title="Docker" height="25" src="images/docker.png"></code>
+<code><img title="Linux" height="25" src="images/linux.png"></code>
+<code><img title="Git" height="25" src="images/git-original.svg"></code>
+<code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+
 </p>
 <hr>
